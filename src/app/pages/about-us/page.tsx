@@ -15,7 +15,7 @@ export default function AboutPage() {
       </p>
       <h2 className="mt-10 font-serif text-3xl">The man behind the pickles</h2>
       <p className="mt-4 leading-relaxed text-muted">
-        Chef Murala Venkatesh brings over 40 years of culinary experience rooted in the
+        Chef Arjun Reddy brings over 40 years of culinary experience rooted in the
         villages of Andhra Pradesh. Growing up in Kolluru, he learned to cook the way
         generations before him did — outdoors, with farm-fresh ingredients, cold-pressed oils,
         and spices ground by hand.
@@ -36,7 +36,7 @@ export default function AboutPage() {
       </p>
       <p className="mt-8 font-serif text-lg">
         Thank you for being part of the Food on Farm family.
-        <br />— Murala Venkatesh (Babai) & Team
+        <br />— Arjun Reddy & Team
       </p>
     </article>
   );
