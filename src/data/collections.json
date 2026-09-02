@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "chicken-pickles",
+    "title": "Chicken Pickles",
+    "tagline": "Bold Andhra chicken",
+    "description": "Chicken pickle with bone, boneless, gongura and more — handcrafted with traditional spices.",
+    "image": "/images/products/chicken-boneless-pickle-0.webp"
+  },
+  {
+    "slug": "mutton-pickles",
+    "title": "Mutton Pickles",
+    "tagline": "Rich & indulgent",
+    "description": "Boneless mutton and gongura mutton pickles slow-cooked in cold-pressed oil.",
+    "image": "/images/products/mutton-boneless-pickle-0.webp"
+  },
+  {
+    "slug": "fish-pickles",
+    "title": "Fish Pickles",
+    "tagline": "Coastal Andhra flavours",
+    "description": "Bocha, korramenu, apollo, prawns, tuna, salmon and more — fresh catch, bold spice.",
+    "image": "/images/products/bocha-fish-pickle-0.webp"
+  },
+  {
+    "slug": "non-vegetarian-pickles",
+    "title": "All Pickles",
+    "tagline": "Full menu",
+    "description": "Every chicken, mutton and fish pickle on our menu — traditional recipes, zero preservatives.",
+    "image": "/images/products/chicken-boneless-pickle-0.webp"
+  },
+  {
+    "slug": "best-sellers",
+    "title": "Best Sellers",
+    "tagline": "Customer favourites",
+    "description": "The jars our customers order again and again.",
+    "image": "/images/products/chicken-pickle-with-bone-0.webp"
+  }
+]
