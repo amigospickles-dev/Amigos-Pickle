@@ -234,8 +234,8 @@
     "id": 9100000000001,
     "title": "Bocha Fish Pickle",
     "handle": "bocha-fish-pickle",
-    "description": "Traditional Andhra-style bocha fish pickle, handcrafted with fresh fish, bold spices and cold-pressed groundnut oil.",
-    "html": "<p>Traditional Andhra-style bocha fish pickle, handcrafted with fresh fish, bold spices and cold-pressed groundnut oil.</p>",
+    "description": "Bocha (climbing perch) pickle, made the Andhra way with whole pieces, Guntur chilli, garlic and cold-pressed groundnut oil.",
+    "html": "<p>Bocha (climbing perch) pickle, made the Andhra way with whole pieces, Guntur chilli, garlic and cold-pressed groundnut oil.</p>",
     "type": "Non-Vegetarian Pickles",
     "tags": [
       "Food On Farm Pickles",
@@ -311,14 +311,14 @@
   },
   {
     "id": 9100000000002,
-    "title": "Korramenu Fish Pickle",
+    "title": "Korramenu Fish Pickle (With Bone)",
     "handle": "korramenu-fish-pickle",
-    "description": "Authentic korramenu fish pickle slow-cooked with traditional Andhra spices for a rich, coastal flavour.",
-    "html": "<p>Authentic korramenu fish pickle slow-cooked with traditional Andhra spices for a rich, coastal flavour.</p>",
+    "description": "Korramenu (murrel / snakehead) pickle with bone — slow-cooked in mustard, chilli and groundnut oil for a deep coastal flavour.",
+    "html": "<p>Korramenu (murrel / snakehead) pickle with bone — slow-cooked in mustard, chilli and groundnut oil for a deep coastal flavour.</p>",
     "type": "Non-Vegetarian Pickles",
     "tags": [
       "Food On Farm Pickles",
-      "Korramenu Fish Pickle"
+      "Korramenu Fish Pickle (With Bone)"
     ],
     "options": [
       {
@@ -393,8 +393,8 @@
     "id": 9100000000003,
     "title": "Boneless Korramenu Fish Pickle",
     "handle": "boneless-korramenu-fish-pickle",
-    "description": "Premium boneless korramenu fish pickle — tender pieces marinated in bold Andhra spices and groundnut oil.",
-    "html": "<p>Premium boneless korramenu fish pickle — tender pieces marinated in bold Andhra spices and groundnut oil.</p>",
+    "description": "Boneless korramenu (murrel) pickle — tender fillets marinated in bold Andhra spices, no bones, easy to serve with rice.",
+    "html": "<p>Boneless korramenu (murrel) pickle — tender fillets marinated in bold Andhra spices, no bones, easy to serve with rice.</p>",
     "type": "Non-Vegetarian Pickles",
     "tags": [
       "Food On Farm Pickles",
@@ -472,8 +472,8 @@
     "id": 9100000000004,
     "title": "Apollo Fish Pickle",
     "handle": "apollo-fish-pickle",
-    "description": "Handcrafted Apollo fish pickle with traditional Andhra spices — bold, tangy and deeply satisfying.",
-    "html": "<p>Handcrafted Apollo fish pickle with traditional Andhra spices — bold, tangy and deeply satisfying.</p>",
+    "description": "Apollo fish pickle — Hyderabad-style pieces tossed in garlic, curry leaf and fiery Andhra masala, then matured in oil.",
+    "html": "<p>Apollo fish pickle — Hyderabad-style pieces tossed in garlic, curry leaf and fiery Andhra masala, then matured in oil.</p>",
     "type": "Non-Vegetarian Pickles",
     "tags": [
       "Food On Farm Pickles",
@@ -551,8 +551,8 @@
     "id": 9100000000005,
     "title": "Prawns Pickle (Medium Size)",
     "handle": "prawns-pickle-medium",
-    "description": "Fresh medium-size prawns pickled with traditional Andhra coastal spices and cold-pressed groundnut oil.",
-    "html": "<p>Fresh medium-size prawns pickled with traditional Andhra coastal spices and cold-pressed groundnut oil.</p>",
+    "description": "Medium prawns pickle — firm coastal prawns cooked with tamarind, chilli and cold-pressed groundnut oil.",
+    "html": "<p>Medium prawns pickle — firm coastal prawns cooked with tamarind, chilli and cold-pressed groundnut oil.</p>",
     "type": "Non-Vegetarian Pickles",
     "tags": [
       "Food On Farm Pickles",
@@ -631,8 +631,8 @@
     "id": 9100000000006,
     "title": "Prawns Pickle (Large Size)",
     "handle": "prawns-pickle-large",
-    "description": "Premium large-size prawns slow-cooked in bold Andhra spices for a rich, indulgent pickle experience.",
-    "html": "<p>Premium large-size prawns slow-cooked in bold Andhra spices for a rich, indulgent pickle experience.</p>",
+    "description": "Large prawns pickle — jumbo prawns slow-cooked in bold Andhra spices for a richer, meatier bite.",
+    "html": "<p>Large prawns pickle — jumbo prawns slow-cooked in bold Andhra spices for a richer, meatier bite.</p>",
     "type": "Non-Vegetarian Pickles",
     "tags": [
       "Food On Farm Pickles",
@@ -708,14 +708,14 @@
   },
   {
     "id": 9100000000007,
-    "title": "Tina Fish Pickle",
+    "title": "Tuna Fish Pickle",
     "handle": "tina-fish-pickle",
-    "description": "Traditional tina fish pickle handcrafted with fresh catch, Andhra spices and groundnut oil.",
-    "html": "<p>Traditional tina fish pickle handcrafted with fresh catch, Andhra spices and groundnut oil.</p>",
+    "description": "Tuna fish pickle — firm tuna pieces in traditional Andhra spices, garlic and cold-pressed groundnut oil.",
+    "html": "<p>Tuna fish pickle — firm tuna pieces in traditional Andhra spices, garlic and cold-pressed groundnut oil.</p>",
     "type": "Non-Vegetarian Pickles",
     "tags": [
       "Food On Farm Pickles",
-      "Tina Fish Pickle"
+      "Tuna Fish Pickle"
     ],
     "options": [
       {
@@ -789,8 +789,8 @@
     "id": 9100000000008,
     "title": "Salmon Fish Pickle",
     "handle": "salmon-fish-pickle",
-    "description": "Premium salmon fish pickle — rich, flavourful and handcrafted with traditional Andhra spices.",
-    "html": "<p>Premium salmon fish pickle — rich, flavourful and handcrafted with traditional Andhra spices.</p>",
+    "description": "Salmon fish pickle — rich salmon pieces handcrafted with Andhra chilli, mustard and cold-pressed oil.",
+    "html": "<p>Salmon fish pickle — rich salmon pieces handcrafted with Andhra chilli, mustard and cold-pressed oil.</p>",
     "type": "Non-Vegetarian Pickles",
     "tags": [
       "Food On Farm Pickles",
