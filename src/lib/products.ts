@@ -20,7 +20,7 @@ const NON_VEG_MENU = {
     "apollo-fish-pickle",
     "prawns-pickle-medium",
     "prawns-pickle-large",
-    "tina-fish-pickle",
+    "tuna-fish-pickle",
     "salmon-fish-pickle",
   ],
 } as const;

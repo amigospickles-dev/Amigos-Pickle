@@ -708,14 +708,14 @@
   },
   {
     "id": 9100000000007,
-    "title": "Tina Fish Pickle",
-    "handle": "tina-fish-pickle",
-    "description": "Traditional tina fish pickle handcrafted with fresh catch, Andhra spices and groundnut oil.",
-    "html": "<p>Traditional tina fish pickle handcrafted with fresh catch, Andhra spices and groundnut oil.</p>",
+    "title": "Tuna Fish Pickle",
+    "handle": "tuna-fish-pickle",
+    "description": "Traditional tuna fish pickle handcrafted with fresh catch, Andhra spices and groundnut oil.",
+    "html": "<p>Traditional tuna fish pickle handcrafted with fresh catch, Andhra spices and groundnut oil.</p>",
     "type": "Non-Vegetarian Pickles",
     "tags": [
       "Food On Farm Pickles",
-      "Tina Fish Pickle"
+      "Tuna Fish Pickle"
     ],
     "options": [
       {
@@ -769,7 +769,7 @@
       }
     ],
     "images": [
-      "/images/products/tina-fish-pickle-0.webp"
+      "/images/products/tuna-fish-pickle-0.webp"
     ],
     "collections": [
       "fish-pickles",
