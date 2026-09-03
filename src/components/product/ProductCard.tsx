@@ -52,7 +52,9 @@ export function ProductCard({
         <Link href={`/products/${product.handle}`} className="font-serif text-xl leading-snug text-ink">
           {product.title}
         </Link>
-        <p className="mt-1 line-clamp-2 text-xs text-muted">{product.description}</p>
+        <p className="mt-1 line-clamp-2 text-xs text-muted">
+          Handcrafted with age-old spices & fresh ingredients
+        </p>
         {product.weights.length > 1 && (
           <div className="mt-3 flex flex-wrap gap-1">
             {product.weights.map((w) => (
