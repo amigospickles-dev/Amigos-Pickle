@@ -52,14 +52,14 @@ export function AddToCart({ product }: { product: Product }) {
           </div>
         </div>
       )}
-      <div className="flex items-end justify-between">
-        <div>
+      <div className="flex flex-wrap items-end gap-4">
+        <div className="min-w-0 flex-1">
           <p className="font-serif text-3xl">{inr(variant?.price ?? product.priceFrom)}</p>
           {variant?.per100 ? (
             <p className="text-sm text-muted">₹{variant.per100} / 100g</p>
           ) : null}
         </div>
-        <div className="flex items-center rounded-full border border-line">
+        <div className="flex shrink-0 items-center rounded-full border border-line">
           <button type="button" className="px-3 py-2" onClick={() => setQty((n) => Math.max(1, n - 1))}>
             −
           </button>
@@ -69,12 +69,12 @@ export function AddToCart({ product }: { product: Product }) {
           </button>
         </div>
       </div>
-      <div className="flex flex-col gap-2 sm:flex-row">
+      <div className="grid gap-2 sm:grid-cols-2">
         <button
           type="button"
           disabled={soldOut || !payload}
           onClick={() => payload && addItem(payload)}
-          className="flex-1 rounded-full bg-chili py-3 font-semibold text-white disabled:bg-line"
+          className="w-full rounded-full bg-chili px-4 py-3 text-sm font-semibold text-white disabled:bg-line sm:text-base"
         >
           {soldOut ? "Sold out" : "Add to cart"}
         </button>
@@ -91,10 +91,10 @@ export function AddToCart({ product }: { product: Product }) {
             )}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex flex-1 items-center justify-center gap-2 rounded-full bg-[#25D366] py-3 text-center font-semibold text-white"
+            className="flex w-full items-center justify-center gap-2 rounded-full bg-[#25D366] px-4 py-3 text-sm font-semibold text-white sm:text-base"
           >
-            <WhatsAppIcon className="h-5 w-5" />
-            Order this on WhatsApp
+            <WhatsAppIcon className="h-5 w-5 shrink-0" />
+            <span className="truncate">Order on WhatsApp</span>
           </a>
         )}
       </div>

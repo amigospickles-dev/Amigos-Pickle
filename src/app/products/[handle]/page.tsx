@@ -36,14 +36,20 @@ export default async function ProductPage({
         <Link href="/">Home</Link> / <Link href="/collections">Collections</Link> /{" "}
         {product.title}
       </p>
-      <div className="mt-6 grid gap-10 lg:grid-cols-2">
-        <div className="grid gap-3 sm:grid-cols-2">
+      <div className="mt-6 grid gap-10 lg:grid-cols-2 lg:items-start">
+        <div
+          className={
+            product.images.length > 1
+              ? "grid gap-3 sm:grid-cols-2"
+              : "mx-auto w-full max-w-xl lg:max-w-none"
+          }
+        >
           {product.images.map((src) => (
             <img
               key={src}
               src={src}
               alt={product.title}
-              className="aspect-square w-full rounded-3xl bg-white object-cover"
+              className="aspect-square w-full rounded-3xl bg-white object-contain"
             />
           ))}
         </div>
