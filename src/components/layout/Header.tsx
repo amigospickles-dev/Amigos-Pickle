@@ -45,23 +45,15 @@ export function Header() {
             <Menu className="h-6 w-6" />
           </button>
 
-          <Link href="/" className="flex items-center gap-2">
+          <Link href="/" className="flex shrink-0 items-center">
             <Image
               src="/images/brand/amigos-logo.png"
               alt={SITE.name}
-              width={64}
-              height={64}
-              className="h-14 w-14 rounded-full object-cover sm:h-16 sm:w-16"
+              width={252}
+              height={115}
+              className="h-12 w-auto object-contain sm:h-14"
               priority
             />
-            <span className="leading-tight">
-              <span className="block font-serif text-xl text-ink sm:text-2xl">
-                Amigos
-              </span>
-              <span className="block text-[10px] font-semibold tracking-[0.2em] text-chili uppercase">
-                Fish Pickles
-              </span>
-            </span>
           </Link>
 
           <nav className="hidden items-center gap-6 text-sm font-medium text-ink lg:flex">

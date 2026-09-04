@@ -15,13 +15,13 @@ const SOCIAL = [
 export default function ContactPage() {
   return (
     <div className="mx-auto max-w-4xl px-4 py-14 sm:px-6">
-      <div className="flex items-center gap-4">
+      <div className="flex flex-col gap-4 sm:flex-row sm:items-center">
         <Image
           src="/images/brand/amigos-logo.png"
           alt={SITE.name}
-          width={72}
-          height={72}
-          className="h-18 w-18 rounded-full object-cover"
+          width={252}
+          height={115}
+          className="h-16 w-auto object-contain sm:h-20"
         />
         <div>
           <h1 className="font-serif text-5xl">Contact</h1>

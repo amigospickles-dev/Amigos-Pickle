@@ -16,16 +16,13 @@ export function Footer() {
     <footer className="mt-auto border-t border-line bg-[#2A1810] text-cream">
       <div className="mx-auto grid max-w-7xl gap-10 px-4 py-14 sm:px-6 md:grid-cols-4">
         <div className="md:col-span-2">
-          <div className="flex items-center gap-3">
-            <Image
-              src="/images/brand/amigos-logo.png"
-              alt={SITE.name}
-              width={56}
-              height={56}
-              className="h-14 w-14 rounded-full object-cover"
-            />
-            <p className="font-serif text-2xl">{SITE.name}</p>
-          </div>
+          <Image
+            src="/images/brand/amigos-logo.png"
+            alt={SITE.name}
+            width={252}
+            height={115}
+            className="h-16 w-auto rounded-xl bg-cream object-contain p-2"
+          />
           <p className="mt-3 max-w-md text-sm leading-relaxed text-cream/75">
             The finest, most flavorful, authentic Andhra fish pickles — traditional recipes,
             farm-fresh ingredients, zero preservatives.
